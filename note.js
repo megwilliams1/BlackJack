@@ -118,16 +118,64 @@
 // cards.push(6)
 // console.log(cards)
 
-let messages = [
-    "Hey, how's it going?",
-    "I'm great, thank you! How about you?",
-    "All good, Been working on my portfolio lately."
-]
-let newMessage = "Same here!"
+// let messages = [
+//     "Hey, how's it going?",
+//     "I'm great, thank you! How about you?",
+//     "All good, Been working on my portfolio lately."
+// ]
+// let newMessage = "Same here!"
 
-messages.push(newMessage)
-console.log(messages)
+// messages.push(newMessage)
+// console.log(messages)
 
-messages.pop()
-console.log(messages)
+// messages.pop()
+// console.log(messages)
+
+// function newCard() {
+//     let card = 6
+//     sum += card
+
+//     cards.push(card)
+//     console.log(cards)
+
+
+//     renderGame()
+// }
+
+// Count to ten!
+// We need to specify
+
+// WHere should we START counting?
+// Where is the FINISHline?
+// What's the STEP SIZE we should use?
+
+// START          FINISH       STEP SIZE
+
+// for ( let count = 1; count < 11; count += 1) {
+
+
+
+//     console.log(count)
+// }
+
+// for ( let i = 0; i < 6; i += 1) {
+
+//     console.log(i)
+// }
+
+// for ( let i = 10; i < 101; i += 10) {
+
+//     console.log(i)
+// }
+
+// for( let i = 0; i < cards.length; i += 1) {
+//     console.log(cards[i])
+// }
+
+// let sentence =  ["Hello ","my ", "name ", "is ", "Per"]
+// let greetingEl = document.getElementById("greeting-el")
+
+// for (let i = 0; i < sentence.length; i += 1) {
+//     greetingEl.textContent += sentence[i]
+// }
 
