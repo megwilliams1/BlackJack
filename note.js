@@ -179,3 +179,27 @@
 //     greetingEl.textContent += sentence[i]
 // }
 
+// function getFastestRaceTime() {
+//     if (player1Time < payler2Time) {
+//         return player1Time
+//     } else if (player2Time < player1Time) {
+//         return player2Time
+//     } else {
+//         return player1Time
+//     }
+
+// }
+
+// let fastestRace = getFastestRaceTime()
+
+// function getTotalRaceTime() {
+//     return player1Time + player2Time
+// }
+
+// let totalTime = getTotalRaceTime()
+
+// console.log(totalTime)
+
+Math.random()
+
+it generates a random number  between 0 and 1 (not inclusive of 1)
