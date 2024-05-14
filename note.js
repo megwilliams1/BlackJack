@@ -200,6 +200,41 @@
 
 // console.log(totalTime)
 
-Math.random()
+// Math.random()
 
-it generates a random number  between 0 and 1 (not inclusive of 1)
+// it generates a random number  between 0 and 1 (not inclusive of 1)
+
+// let randomNumber = Math.random() * 6
+
+// console.log(randomNumber)
+// In which range will our randomNumber be now?
+
+// From: 0
+// To: 5.99999
+
+// let flooredNumber = Math.floor(3.45632)
+// console.log(flooredNumber)
+
+// -it removes the decimals
+
+// let randomNumber = Math.floor( Math.random() * 6 )
+// console.log(randomNumber)
+
+// function rollDice() {
+//     let randomNumber = Math.floor ( Math.random() * 6 ) + 1
+//     return randomNumber
+// }
+// console.log( rollDice)
+
+
+
+// [from script.js
+
+//     // console.log(4 === 3) false
+// // console.log(5 > 2) true
+// // console.log(12 > 12) false
+// // console.log(3 < 0) false
+// // console.log(3 >= 3) true
+// // console.log(11 <= 11) true
+// // console.log(3 <= 2) false
+// ]
