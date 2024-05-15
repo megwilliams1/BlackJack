@@ -238,3 +238,26 @@
 // // console.log(11 <= 11) true
 // // console.log(3 <= 2) false
 // ]
+
+// if (hasSolvedChallenge === false && hasHintsLeft === false) {
+//     showSolution()
+// }
+
+// let likesDocumentaries = true
+// let likeStartups = false
+// if (likesDocumentaries === true || likesStartups === true) {
+//     recommendMovie()
+// }
+// function recommendMovie() {
+//     console.log("Hey, check out this new film we think you will like!")
+// }
+
+// let castle = {
+//     title: "Live like a queen for a day",
+//     price: 200,
+//     isSuperHost: true,
+//     features: ["a view of a winery"]
+    
+// }
+// console.log(castle.price)
+// console.log(castle.isSuperHost)
